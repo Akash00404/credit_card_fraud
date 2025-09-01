@@ -23,7 +23,7 @@ This project applies machine learning to detect fraudulent credit card transacti
   * F1-score
   * ROC-AUC
 
-## 🗂 Dataset
+##  Dataset
 
 **File:** `credit_card_fraud_dataset.csv`
 **Size:** 100,000 transactions
@@ -49,7 +49,7 @@ cd credit-card-fraud-detection
 pip install -r requirements.txt
 ```
 
-## 📦 Requirements
+##  Requirements
 
 ```
 pandas
